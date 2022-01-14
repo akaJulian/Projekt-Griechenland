@@ -123,6 +123,9 @@ body {
   list-style-type: none;
   color: wheat;
 }
+a:visited {
+  color: wheat;
+}
 .ü {
   text-align: center;
   text-decoration: underline;

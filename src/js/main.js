@@ -1,4 +1,4 @@
-
+// Bild Swap
 let index=1;
 	let max=7;
 	window.onload=autoplay();
@@ -20,6 +20,7 @@ let index=1;
 		}
 $(document).ready(function() {
 
+// Tooltips
 
     $('.tooltip').tooltipster({
           delay: 100,
