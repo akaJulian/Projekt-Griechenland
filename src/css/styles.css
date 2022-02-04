@@ -114,6 +114,9 @@ section {
 }
 html {
   background-color: #333333;
+  scroll-behavior: smooth;
+
+
 }
 body {
   padding: 0px 0px 0px 0px;
@@ -124,6 +127,9 @@ body {
   color: wheat;
 }
 a:visited {
+  color: wheat;
+}
+a {
   color: wheat;
 }
 .ü {
@@ -147,6 +153,12 @@ a:visited {
 }
 .lol {
   width: 20%;
+  display: inline-block;
+  margin: 0px 40px 0px 40px;
+  line-height: 20px;
+}
+.lol2 {
+  width: 40%;
   display: inline-block;
   margin: 0px 40px 0px 40px;
   line-height: 20px;
